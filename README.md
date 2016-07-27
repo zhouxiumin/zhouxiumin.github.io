@@ -1,2 +1,6 @@
 # zhouxiumin.github.io
-my personnal website
+my personal website
+
+
+local view command：
+jekyll serve --port 8080
